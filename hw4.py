@@ -12,3 +12,4 @@ print("학과: ",major)
 print("학교: ", university)
 print("학년: ",grade)
 
+print("이게 되나")
